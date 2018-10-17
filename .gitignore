@@ -56,6 +56,5 @@ buck-out/
 *.jsbundle
 /*/app/src
 /*/app/BUCK
-/*/gradle/
-/*/keystores/
+# /*/gradle/
 /*/keystores/
